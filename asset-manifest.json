@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/appleEater/static/css/main.8abb3fc9.chunk.css",
+    "main.js": "/appleEater/static/js/main.e6ec6400.chunk.js",
+    "main.js.map": "/appleEater/static/js/main.e6ec6400.chunk.js.map",
+    "runtime-main.js": "/appleEater/static/js/runtime-main.54187506.js",
+    "runtime-main.js.map": "/appleEater/static/js/runtime-main.54187506.js.map",
+    "static/css/2.818011ed.chunk.css": "/appleEater/static/css/2.818011ed.chunk.css",
+    "static/js/2.5bcaaa8d.chunk.js": "/appleEater/static/js/2.5bcaaa8d.chunk.js",
+    "static/js/2.5bcaaa8d.chunk.js.map": "/appleEater/static/js/2.5bcaaa8d.chunk.js.map",
+    "static/js/3.a22b75c4.chunk.js": "/appleEater/static/js/3.a22b75c4.chunk.js",
+    "static/js/3.a22b75c4.chunk.js.map": "/appleEater/static/js/3.a22b75c4.chunk.js.map",
+    "index.html": "/appleEater/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/appleEater/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.8abb3fc9.chunk.css.map": "/appleEater/static/css/main.8abb3fc9.chunk.css.map",
+    "static/js/2.5bcaaa8d.chunk.js.LICENSE.txt": "/appleEater/static/js/2.5bcaaa8d.chunk.js.LICENSE.txt",
+    "static/media/apple.1bfbdcbc.gif": "/appleEater/static/media/apple.1bfbdcbc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54187506.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.5bcaaa8d.chunk.js",
+    "static/css/main.8abb3fc9.chunk.css",
+    "static/js/main.e6ec6400.chunk.js"
+  ]
+}
